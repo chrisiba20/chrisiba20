@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    font-family: Arial, sans-serif;
+    font-family: Tahoma, Arial, sans-serif; /* Set Tahoma as the primary font */
     color: white;
     text-align: center;
     margin: 0;
@@ -15,8 +15,9 @@ header {
     margin: 20px auto;
 }
 
-#main-content h1,
-#main-content p {
+#introduction h1,
+#introduction h3 {
+    color: white; /* Set text color explicitly */
     text-align: center;
 }
 
