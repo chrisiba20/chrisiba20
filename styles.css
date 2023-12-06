@@ -25,3 +25,8 @@ header {
     max-width: 100%;
     height: auto;
 }
+.photo-gallery img {
+    max-width: 100%;
+    height: auto;
+    margin: 5px;
+}
